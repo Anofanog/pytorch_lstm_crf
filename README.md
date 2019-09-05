@@ -1,1 +1,2 @@
 # pytorch_lstm_crf
+这个项目主要是用于电影问句的实体抽取，把整个pytorch写lstm的流程熟悉了下
